@@ -1,7 +1,7 @@
 import pygame
 import math
 from random import randint
-#Wahou 2 dfdd
+#Wahou 2 dfddd
 ######################### CONST #########################
 # Used to manage how fast the screen updates
 clock = pygame.time.Clock()
